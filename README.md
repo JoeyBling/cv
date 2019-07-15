@@ -14,7 +14,11 @@
 
 ## 项目截图
 
-[![試毅-思伟的个人简历](./cv_mini.png "試毅-思伟的个人简历")](http://zhousiwei.gitee.io/cv "試毅-思伟的个人简历")
+[![試毅-思伟的个人简历](./screenshots/cn/1_mini.png "試毅-思伟的个人简历")](http://zhousiwei.gitee.io/cv "試毅-思伟的个人简历")
+[![試毅-思伟的个人简历](./screenshots/cn/2_mini.png "試毅-思伟的个人简历")](http://zhousiwei.gitee.io/cv "試毅-思伟的个人简历")
+[![試毅-思伟的个人简历](./screenshots/cn/3_mini.png "試毅-思伟的个人简历")](http://zhousiwei.gitee.io/cv "試毅-思伟的个人简历")
+[![試毅-思伟的个人简历](./screenshots/cn/4_mini.png "試毅-思伟的个人简历")](http://zhousiwei.gitee.io/cv "試毅-思伟的个人简历")
+[![試毅-思伟的个人简历](./screenshots/cn/5_mini.png "試毅-思伟的个人简历")](http://zhousiwei.gitee.io/cv "試毅-思伟的个人简历")
 
 ## 本地预览
 1. 安装 `node.js/npm`

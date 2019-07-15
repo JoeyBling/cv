@@ -14,7 +14,11 @@
 
 ## Project Screenshots
 
-[![zhousiwei's resume](./cv_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/1_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/2_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/3_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/4_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/5_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
 
 ## Local Preview
 1. Install `node.js/npm`
