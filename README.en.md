@@ -1,4 +1,4 @@
-## [Resume of Java Software Engineer](http://zhousiwei.gitee.io/cv/)
+## [Resume of Java Software Engineer](https://joeybling.github.io/cv//)
 
 - English | [中文](README.md)
 
@@ -10,15 +10,15 @@
 
 ## Online Preview
 
-> **Preview ➡️ [https://zhousiwei.gitee.io/cv](https://zhousiwei.gitee.io/cv)**
+> **Preview ➡️ [https://joeybling.github.io/cv/](https://joeybling.github.io/cv/)**
 
 ## Project Screenshots
 
-[![zhousiwei's resume](./screenshots/en/1_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
-[![zhousiwei's resume](./screenshots/en/2_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
-[![zhousiwei's resume](./screenshots/en/3_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
-[![zhousiwei's resume](./screenshots/en/4_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
-[![zhousiwei's resume](./screenshots/en/5_mini.png "zhousiwei's resume")](http://zhousiwei.gitee.io/cv "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/1_mini.png "zhousiwei's resume")](https://joeybling.github.io/cv/ "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/2_mini.png "zhousiwei's resume")](https://joeybling.github.io/cv/ "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/3_mini.png "zhousiwei's resume")](https://joeybling.github.io/cv/ "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/4_mini.png "zhousiwei's resume")](https://joeybling.github.io/cv/ "zhousiwei's resume")
+[![zhousiwei's resume](./screenshots/en/5_mini.png "zhousiwei's resume")](https://joeybling.github.io/cv/ "zhousiwei's resume")
 
 ## Local Preview
 1. Install `node.js/npm`
