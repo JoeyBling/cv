@@ -1,4 +1,4 @@
-## [Resume of Java Software Engineer](https://joeybling.github.io/cv//)
+## [Resume of Java Software Engineer](https://joeybling.github.io/cv/)
 
 - English | [中文](README.md)
 
