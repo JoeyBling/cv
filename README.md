@@ -1,4 +1,4 @@
-## [Java软件工程师简历](https://joeybling.github.io/cv//)
+## [Java软件工程师简历](https://joeybling.github.io/cv/)
 
 - [English](README.en.md) | 中文
 
