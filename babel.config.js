@@ -1,7 +1,8 @@
 module.exports = {
   presets: [
     ['@babel/env', {
-      modules: 'false'
+	  // "amd" | "umd" | "systemjs" | "commonjs" | "cjs" | false, defaults to "commonjs"
+      modules: false
     }]
   ],
   plugins: [
